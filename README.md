@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hari, a frontend engieer.
+## Hi there 👋 
 
 <!--
 **hariof98/hariof98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
